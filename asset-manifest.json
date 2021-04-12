@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e0c3e55.chunk.css",
-    "main.js": "/static/js/main.00e91943.chunk.js",
-    "main.js.map": "/static/js/main.00e91943.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c8b406ee.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c8b406ee.js.map",
-    "static/js/2.d7a87218.chunk.js": "/static/js/2.d7a87218.chunk.js",
-    "static/js/2.d7a87218.chunk.js.map": "/static/js/2.d7a87218.chunk.js.map",
+    "main.css": "/static/css/main.531b4c99.chunk.css",
+    "main.js": "/static/js/main.bb71da7e.chunk.js",
+    "main.js.map": "/static/js/main.bb71da7e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2d7d9808.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2d7d9808.js.map",
+    "static/js/2.c85ae3cf.chunk.js": "/static/js/2.c85ae3cf.chunk.js",
+    "static/js/2.c85ae3cf.chunk.js.map": "/static/js/2.c85ae3cf.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.6e0c3e55.chunk.css.map": "/static/css/main.6e0c3e55.chunk.css.map",
-    "static/js/2.d7a87218.chunk.js.LICENSE.txt": "/static/js/2.d7a87218.chunk.js.LICENSE.txt",
+    "static/css/main.531b4c99.chunk.css.map": "/static/css/main.531b4c99.chunk.css.map",
+    "static/js/2.c85ae3cf.chunk.js.LICENSE.txt": "/static/js/2.c85ae3cf.chunk.js.LICENSE.txt",
     "static/media/A32NX.27d64073.mp4": "/static/media/A32NX.27d64073.mp4",
     "static/media/FBW-Logo-WHITE.880b7446.svg": "/static/media/FBW-Logo-WHITE.880b7446.svg",
+    "static/media/InstallerScreenshot.0325836a.png": "/static/media/InstallerScreenshot.0325836a.png",
     "static/media/index.css": "/static/media/NunitoSans-SemiBold.662b8665.ttf",
+    "static/media/a32nx_wireframe.e987709f.svg": "/static/media/a32nx_wireframe.e987709f.svg",
+    "static/media/a32nxwing.f99bf0f5.png": "/static/media/a32nxwing.f99bf0f5.png",
     "static/media/discord.137dd396.jpg": "/static/media/discord.137dd396.jpg",
     "static/media/donate.0f568da5.jpg": "/static/media/donate.0f568da5.jpg",
-    "static/media/feature.d97a7dfa.jpg": "/static/media/feature.d97a7dfa.jpg",
     "static/media/flightsimto.15a3d435.png": "/static/media/flightsimto.15a3d435.png",
     "static/media/fsnews.8f8b550c.png": "/static/media/fsnews.8f8b550c.png",
     "static/media/s4f.8022961f.png": "/static/media/s4f.8022961f.png",
@@ -23,9 +25,9 @@
     "static/media/yourcontrols.4d9ae9f0.png": "/static/media/yourcontrols.4d9ae9f0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8b406ee.js",
-    "static/js/2.d7a87218.chunk.js",
-    "static/css/main.6e0c3e55.chunk.css",
-    "static/js/main.00e91943.chunk.js"
+    "static/js/runtime-main.2d7d9808.js",
+    "static/js/2.c85ae3cf.chunk.js",
+    "static/css/main.531b4c99.chunk.css",
+    "static/js/main.bb71da7e.chunk.js"
   ]
 }
