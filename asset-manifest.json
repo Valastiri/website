@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.531b4c99.chunk.css",
-    "main.js": "/static/js/main.bb71da7e.chunk.js",
-    "main.js.map": "/static/js/main.bb71da7e.chunk.js.map",
+    "main.css": "/static/css/main.5a5e4e10.chunk.css",
+    "main.js": "/static/js/main.ea6ecbc2.chunk.js",
+    "main.js.map": "/static/js/main.ea6ecbc2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2d7d9808.js",
     "runtime-main.js.map": "/static/js/runtime-main.2d7d9808.js.map",
     "static/js/2.c85ae3cf.chunk.js": "/static/js/2.c85ae3cf.chunk.js",
     "static/js/2.c85ae3cf.chunk.js.map": "/static/js/2.c85ae3cf.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.531b4c99.chunk.css.map": "/static/css/main.531b4c99.chunk.css.map",
+    "static/css/main.5a5e4e10.chunk.css.map": "/static/css/main.5a5e4e10.chunk.css.map",
     "static/js/2.c85ae3cf.chunk.js.LICENSE.txt": "/static/js/2.c85ae3cf.chunk.js.LICENSE.txt",
     "static/media/A32NX.27d64073.mp4": "/static/media/A32NX.27d64073.mp4",
     "static/media/FBW-Logo-WHITE.880b7446.svg": "/static/media/FBW-Logo-WHITE.880b7446.svg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.2d7d9808.js",
     "static/js/2.c85ae3cf.chunk.js",
-    "static/css/main.531b4c99.chunk.css",
-    "static/js/main.bb71da7e.chunk.js"
+    "static/css/main.5a5e4e10.chunk.css",
+    "static/js/main.ea6ecbc2.chunk.js"
   ]
 }
