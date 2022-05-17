@@ -26,7 +26,7 @@ In most areas around the world FANS-A is used, with Europe using the FANS-B stan
 An [Airbus Safety Report](https://safetyfirst.airbus.com/app/themes/mh_newsdesk/documents/archives/the-future-air-navigation-system-fans-b.pdf) gives a good overview of which areas in the world use which system.
 
 Some aircraft only support FANS-A/A+ or FANS-B/B+ - Atlantic crossings require FANS-A/A+, for example.
-Therefore, Airbus developed a system that allows to communicate through all three types of FANS standards. with the aircraft selecting the correct system based on the connection to the ground station.
+Therefore, Airbus developed a system that allows communication through all three types of FANS standards. with the aircraft selecting the correct system based on the connection to the ground station.
 
 We've decided to follow the current Airbus implementation, and have implemented FANS-A+ and FANS-B+ in the A32NX with an automatic mode selection.
 The mode selection is implemented via the ATC station which accepted the aircraft's logon request, with the FANS-A+ and FANS-B+ being comparable to real world coverage.
