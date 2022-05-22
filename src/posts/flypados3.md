@@ -6,7 +6,7 @@ authors:
   - 'Valastiri'
   - 'DirtyFormal'
 category: 'UPDATE'
-metaImage: '/img/a32nxwing.png'
+metaImage: '/img/notam-images/flypados3/flypad-hero.png'
 metaAlt: 'FlyByWire Simulations'
 ---
   
@@ -44,7 +44,7 @@ As you navigate throughout the EFB accessing different features and interacting 
 
 We are extremely happy to offer support for over 30 languages onboard our EFB. A first in flight simulation, you can now access all the features mentioned above and interact with them in a language of your choice! This would not have been possible without the help of over 200 contributors, and those who have offered to review every corner of the EFB for accuracy. A huge benefit of an open source project is our unique position to have our community assist in endeavors such as this. We cannot stress enough how thankful we are.
 
-[Pictures Here]
+![Languages](/img/notam-images/flypados3/flypad-languages.png)
 
 ### Integrated Pushback
 
