@@ -12,7 +12,7 @@ metaImage: '/img/notam-images/flypados3/flypad-hero.png'
 
 As with every update, the FlyByWire team has been working long and hard to ensure we can bring you the very best high fidelity freeware product we possibly can. With that, we present to you the development team’s newest and finest work on the A32NX. Continue reading to learn more about improvements to the RADNAV Systems and improving the accuracy of the fuel system to match that of the real A320NEO. 
 
-## New Radio Navigation (RAD NAV) features
+## New Radio Navigation (RAD NAV) functionality
 
 With this update a few new additions have been made to the aircrafts ever expanding navigational toolbox. 
 
