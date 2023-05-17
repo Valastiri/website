@@ -35,7 +35,7 @@ The FlyByWire team does the best we can to maintain the highest level of realism
 When the ‘Mode Sel’ is switched to the MAN position, all center tank fuel transfer is controlled manually by the flight crew. Center tank transfer can be started to an inner tank by putting the respective center tank valve push button (currently labeled pump(s)) into the ON position.
 
 
-*Second image still needed*
+*Insert second image here*
 
 The ECAM fuel page has also been updated to show fuel quantity changes, and correct valve positioning. 
 
